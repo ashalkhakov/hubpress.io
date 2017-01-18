@@ -1,7 +1,7 @@
 = Welcome!
 
 This website will host certain curiousities, such as information on
-using the [ATS](http://www.ats-lang.org) programming language.
+using the http://www.ats-lang.org[ATS] programming language.
 
 == Projects
 
