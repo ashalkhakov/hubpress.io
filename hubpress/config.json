@@ -9,9 +9,9 @@
   },
   "socialnetwork": {
     "email": "artyom.shalkhakov@gmail.com",
-    "linkedin": "artyom.shalkhakov@gmail.com",
-    "facebook": "artyom.shalkhakov",
-    "github": "ashalkhakov"
+    "linkedin": "https://www.linkedin.com/in/artyomshalkhakov",
+    "facebook": "https://www.facebook.com/artyom.shalkhakov",
+    "github": "github.com/ashalkhakov/"
   },
   "theme": {
     "name": "ghostium"
