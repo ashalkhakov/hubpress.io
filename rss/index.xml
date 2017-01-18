@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://ashalkhakov.github.io/hubpress.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 18 Jan 2017 11:36:48 GMT</lastBuildDate><atom:link href="https://ashalkhakov.github.io/hubpress.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Welcome!]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>This website will host certain curiousities, such as information on
+using the [ATS](<a href="http://www.ats-lang.org" class="bare">http://www.ats-lang.org</a>) programming language.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_projects">Projects</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://ashalkhakov.github.io/html2pats.html">HTML2PATS</a>: a tool for generating HTML printers for ATS</p>
+</li>
+<li>
+<p><a href="https://ashalkhakov.github.io/pats-ef">PATS-EF</a>: ATS/Postiats error filter
+(helps understanding the output of ATS compiler). Uses
+<a href="https://facebook.github.io/react/">React</a> and
+<a href="http://zaa.ch/jison/about/">Jison</a> under the hood.</p>
+</li>
+<li>
+<p><a href="http://ashalkhakov-cycle-mvp.netlify.com/">Cycle.js MVP</a>: an
+experiment in combining reactive-programming with MVP
+(Model-View-Presenter) using <a href="https://cycle.js.org">Cycle.js</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>https://ashalkhakov.github.io/hubpress.io/2017/01/18/Welcome.html</link><guid isPermaLink="true">https://ashalkhakov.github.io/hubpress.io/2017/01/18/Welcome.html</guid><dc:creator><![CDATA[Artyom Shalkhakov]]></dc:creator><pubDate>Wed, 18 Jan 2017 00:00:00 GMT</pubDate></item></channel></rss>
