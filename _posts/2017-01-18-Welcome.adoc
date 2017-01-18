@@ -5,7 +5,7 @@ using the [ATS](http://www.ats-lang.org) programming language.
 
 == Projects
 
-* html2pats.html[HTML2PATS]: a tool for generating HTML printers for ATS
+* https://ashalkhakov.github.io/html2pats.html[HTML2PATS]: a tool for generating HTML printers for ATS
 * https://ashalkhakov.github.io/pats-ef[PATS-EF]: ATS/Postiats error filter
   (helps understanding the output of ATS compiler). Uses
   https://facebook.github.io/react/[React] and
