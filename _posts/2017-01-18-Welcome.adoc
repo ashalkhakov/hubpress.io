@@ -1,0 +1,15 @@
+= Welcome!
+
+This website will host certain curiousities, such as information on
+using the [ATS](http://www.ats-lang.org) programming language.
+
+== Projects
+
+* html2pats.html[HTML2PATS]: a tool for generating HTML printers for ATS
+* https://ashalkhakov.github.io/pats-ef[PATS-EF]: ATS/Postiats error filter
+  (helps understanding the output of ATS compiler). Uses
+  https://facebook.github.io/react/[React] and
+  http://zaa.ch/jison/about/[Jison] under the hood.
+* http://ashalkhakov-cycle-mvp.netlify.com/[Cycle.js MVP]: an
+  experiment in combining reactive-programming with MVP
+  (Model-View-Presenter) using https://cycle.js.org[Cycle.js]
